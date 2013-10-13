@@ -1,4 +1,5 @@
 Kitter
 ======
 
-It's twitter for kids! Crack Jokes, and gain fans!
+It's twitter for kids! Crack Jokes, and gain fans! Have fun!
+
